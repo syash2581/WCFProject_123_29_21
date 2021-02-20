@@ -1,0 +1,7 @@
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoList\bin\Debug\AdvanceToDoList.dll.config
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoList\bin\Debug\AdvanceToDoList.dll
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoList\bin\Debug\AdvanceToDoList.pdb
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoList\obj\Debug\AdvanceToDoList.csproj.CoreCompileInputs.cache
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoList\obj\Debug\AdvanceToDoList.dll
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoList\obj\Debug\AdvanceToDoList.pdb
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoList\obj\Debug\AdvanceToDoList.csprojAssemblyReference.cache

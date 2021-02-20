@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d71abdf6-0efd-4601-8149-fbf2706c164e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/ToDo/User" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="User.xsd" MetadataType="Schema" ID="ad140d32-d767-434d-91ff-42b620c14210" SourceId="1" SourceUrl="http://localhost:8000/ToDo/User?xsd=xsd2" />
+    <MetadataFile FileName="User1.xsd" MetadataType="Schema" ID="ebaa7144-ee2f-4a2b-b91e-354cf37a8969" SourceId="1" SourceUrl="http://localhost:8000/ToDo/User?xsd=xsd1" />
+    <MetadataFile FileName="User2.xsd" MetadataType="Schema" ID="4b038a7a-ea01-4e02-a514-70e4201937fe" SourceId="1" SourceUrl="http://localhost:8000/ToDo/User?xsd=xsd0" />
+    <MetadataFile FileName="UserService.wsdl" MetadataType="Wsdl" ID="b4fa525b-a7da-4e16-8b57-c95d2ade36a1" SourceId="1" SourceUrl="http://localhost:8000/ToDo/User?wsdl" />
+    <MetadataFile FileName="User.disco" MetadataType="Disco" ID="d123c48a-2bc0-4908-886f-440213176d2d" SourceId="1" SourceUrl="http://localhost:8000/ToDo/User?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

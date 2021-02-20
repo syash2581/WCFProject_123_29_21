@@ -1,0 +1,11 @@
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\bin\Debug\AdvanceToDoListHost.exe.config
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\bin\Debug\AdvanceToDoListHost.exe
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\bin\Debug\AdvanceToDoListHost.pdb
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\bin\Debug\AdvanceToDoList.dll
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\bin\Debug\AdvanceToDoList.pdb
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\bin\Debug\AdvanceToDoList.dll.config
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\obj\Debug\AdvanceToDoListHost.csprojAssemblyReference.cache
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\obj\Debug\AdvanceToDoListHost.csproj.CoreCompileInputs.cache
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\obj\Debug\AdvanceToDoListHost.csproj.CopyComplete
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\obj\Debug\AdvanceToDoListHost.exe
+E:\YASH_DDU\6TH_SEM\Practical\SOC\WCFProject\AdvanceToDoList\AdvanceToDoListHost\obj\Debug\AdvanceToDoListHost.pdb
